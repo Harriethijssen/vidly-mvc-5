@@ -1,1 +1,1 @@
-# vidly-mvc-5
+# vidly-mvc-5 (Section 3 exercises included)
